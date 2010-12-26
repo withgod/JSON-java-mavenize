@@ -1,2 +1,15 @@
+mavenize project
+
 original https://github.com/douglascrockford/JSON-java
+
+how to build
+
+git clone git@github.com:withgod/JSON-java-mavenize.git
+cd JSON-java-mavenize
+git submodule init
+git submodule update
+mvn package
+
+for IDE
+mvn eclipse:eclipse or mvn idea:idea
 

@@ -4,7 +4,7 @@
 
     <groupId>json.org</groupId>
     <artifactId>json</artifactId>
-    <version>20101221</version>
+    <version>20101224</version>
     <packaging>jar</packaging>
     <name>json</name>
 
